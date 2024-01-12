@@ -90,7 +90,7 @@ body{
 
 }
 .weather{
-    /* display: none; */
+    display: none;
 }
 
 .error {
@@ -106,8 +106,8 @@ body{
     .search input{
         margin: 0;
         padding: 0;
-        padding-left: 10px;
-        margin-right: 20px;
+        padding-left: 0px;
+        margin-right: 10px;
     }
 
     .search button{
